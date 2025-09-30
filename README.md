@@ -29,9 +29,7 @@ It provides a **card-based interface** for creating, editing, and deleting notes
 ---
 
 ## 🚀 Features
-- ✍️ Create, edit, and delete notes in a card-based UI.  
-- 📂 Organize ideas and tasks visually.  
-- 🔔 Simple reminders and intuitive workflow.  
+- ✍️ Create, edit, and delete notes in a card-based UI.   
 - 📡 RESTful API with CRUD operations.  
 - 🗄️ MongoDB integration for data storage and retrieval.  
 - 🌐 Deployed online via Render for live access.  
